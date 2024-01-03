@@ -1,0 +1,2 @@
+account number for testing: 0000123457/0710
+IBAN for testing: CZ49 0710 0000 0000 0012 3457
